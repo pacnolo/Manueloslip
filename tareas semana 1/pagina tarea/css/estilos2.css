@@ -1,0 +1,148 @@
+body{
+
+	margin: 0;
+	margin-top: -20px;
+	height: 100%;
+	padding: 0;
+	background: blue;
+	font-family: Constantia,Verdana;
+    
+
+
+}
+
+ul{
+	list-style: none;
+}
+
+h1{
+
+color: white;
+padding: 20px;
+text-align: center;
+
+}
+
+.titulo_principal{
+background:skyblue;
+}
+
+.menu-navegacion{
+
+	text-align: center;
+	border: 5px dotted navy;
+}
+
+	.menu-navegacion ul{
+margin: 10px;
+padding: 10px;
+
+	}
+	.menu-navegacion li{
+		display: inline;
+
+	}
+
+	
+.menu-navegacion a{
+	margin: 10px;
+	padding: 10px;
+	text-decoration: none;  /*para quitar el subrayado*/
+     background: red; /*para darle color de fondo*/
+     color: white;  /*para cambiarle el color de letra*/
+font-family: Verdana;
+
+}
+
+.menu-navegacion li.active a, /*el active se manda a llamar para hacer el la funcion de saber en parte de la pagina estamos*/
+.menu-navegacion li:hover a{ /* el hover sirve para cuando pasar el cursor sobre la ventana cambie de color */
+	background: green;
+
+
+
+
+}
+
+.informacion-personal{
+	color: white;
+	text-align: center;
+
+	margin:10px;
+	border: 10px solid navy;
+
+}
+.circulo{
+
+	border-radius: 50%;
+
+/*cambios en la parte de biografia*/
+}
+
+.biografia{
+text-align: center;
+background: white;
+color: black;
+
+	
+
+}
+.manuelo{
+	text-align: center;
+	background: white;
+	color: black;
+}
+.titulobiografia{
+background: black;
+
+}
+
+.texto{
+
+	background: white;
+	color: black;
+
+}
+/*cambios en la parte de trabajo
+*/
+.trabajo{
+
+color: black;
+}
+.imagtrabajo{
+	text-align: center;
+
+}
+.formatotex{
+	text-align: center;
+	color: black;
+	
+}
+/*cambios en la parte de estudios
+*/
+.estudios{
+	
+	color:black;
+	text-align: center;
+
+}
+
+.textocol{
+	
+	color: black;
+	text-align: center;
+}
+.aragonima{
+	
+	text-align: center;
+}
+/*cambios en gustos 
+*/
+.gustosformato{
+	
+	color: black;
+	text-align: center;
+}
+.imagenslip{
+
+	text-align: center;
+}
