@@ -1,0 +1,239 @@
+body{	
+
+
+	margin: 0;
+	margin-top: -20px;
+	height: 100%;
+	padding: 0;
+	background:#2C88AE;
+    font-family: Constantia,Verdana;
+	color: white;
+	text-decoration: none;
+	
+
+	}
+
+    .tituloplat{
+    	color: black;
+       text-align: center; 
+text-decoration: none;
+font-size: 45px;
+
+
+    }
+.titinicial{
+
+	text-align: center;
+	color: black;
+	font-family: algerian;
+	font-size: 60px;
+text-decoration: none;
+list-style-type: none;
+}
+.editaa{
+
+	text-align: center;
+	text-decoration: none;
+	list-style-type: none;
+
+
+
+}
+
+
+.editamenu{
+
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	text-decoration: none;
+}
+.editaensala a{
+	text-align: center;
+	text-decoration: none;
+
+}
+
+.editaensala ul li{
+	text-align: center;
+	text-decoration: none;
+
+}
+.editaensala{
+text-align: center;
+color: black;
+	text-decoration: none;
+
+}
+.menuinicio a{
+
+	text-decoration: none;
+	text-align: center;
+
+}
+.menuinicio{
+	margin: 10px;
+padding: 10px;
+
+}
+.menuinicio a{
+	text-decoration: none;
+	font-size: 45px;
+	font-family: Tw Cen MT Condensed Extra Bold;
+		border: 5px inset navy;
+			margin: 10px;
+padding: 10px;
+}
+.menuinicio ul li{
+
+
+font-size: 40px;
+text-decoration: none;
+color: black;	
+display: inline;
+text-align: justify;
+list-style: none;
+text-align: center;
+
+}
+.menuinicio ul li:hover a{
+
+	background: red;
+	color: black;
+	text-align: justify
+	text-decoration: none;
+	list-style: none;
+    
+
+}
+
+
+.cortesnom{
+color: black;
+
+
+
+	
+}
+.sinlin a{
+
+	color: black;
+
+	text-decoration:none;
+}
+.tithistoria{
+
+	color: black;
+	text-align: center;
+	font-family: Algerian;
+	font-size: 55px;
+	text-decoration:none;
+
+}
+.subhistoria{
+color: black;
+text-align: center;
+font-family: arial;
+font-size:25px; 
+text-decoration:none;
+
+
+}
+
+
+
+
+.menuderecha{
+	text-align: center;
+	text-decoration: none;
+
+	
+}
+
+/* historia*/
+.tituloHis{
+
+border: white dotted;
+color: black;
+text-align: center;
+font-size: 60px;
+font-family: Castellar;
+text-decoration: none;
+
+}
+
+.subtitu{
+
+
+color: black;
+text-align: center;
+font-size: 20px;
+font-family: Gadugi;
+text-decoration: none;
+
+}
+.terminos{
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	font-family: Harrington;
+}
+.terminos a{
+	color: black;
+	text-decoration: none;
+}
+.imaghis{
+	text-align: center;
+
+}
+
+.imagduff{
+	text-align: center;
+
+}
+/* Promociones*/
+.titupromo{
+
+	color: black;
+	text-align: center;
+	font-size: 60px;
+	font-family: algerian;
+}
+.semitu p{
+	border: solid: red;
+
+}
+.semitu{
+
+color: black;
+	text-align: center;
+	font-size: 20px;
+	font-family: arial;
+	border: solid:red;
+	display: inline;
+text-align:center;
+}
+.imagpromo{
+	text-align: center;
+}
+
+
+/* sucursales*/
+.titusucur{
+	text-align: center;
+	color: black;
+	font-size: 60px;
+	font-family: algerian;
+	
+}
+
+.imgasucur{
+
+	text-align: center;
+
+}
+.textosurc{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+}
